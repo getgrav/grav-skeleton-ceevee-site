@@ -1,0 +1,21 @@
+title: Free HTML5/CSS3 Template by Peter Finla  # Name of the site
+author:
+  name: Peter Finla
+metadata:
+    description: 'An exclusive HTML5/CSS3 freebie by Peter Finlan, for Codrops.'
+
+# Header customization
+header:
+  title: HALCYON<span>DAYS</span>
+  description: An exclusive HTML5/CSS3 freebie by Peter Finlan, for <em>Codrops</em>
+  buttons:
+    - text: "Back to the article"
+      link: "http://tympanus.net/codrops/?p=19439"
+      class: "learn-more-btn"
+
+footer:
+  links:
+    - text: Terms &amp; Conditions
+      url: "#"
+    - text: Legals
+      url: "#"
