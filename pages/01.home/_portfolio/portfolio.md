@@ -1,5 +1,6 @@
 ---
 title: Portfolio
+menu: Top
 portfolio:
   - title: "Creative Minds"
     img: portfolio-01.jpg

@@ -1,5 +1,6 @@
 ---
 title: Features
+visible: false
 features:
   - title: "Digital Design"
     icon: laptop shadow
