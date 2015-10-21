@@ -9,7 +9,7 @@ content:
         dir: asc
         custom:
             - _about
-            - _features
+            - _resume
             - _services
             - _swag
             - _portfolio
