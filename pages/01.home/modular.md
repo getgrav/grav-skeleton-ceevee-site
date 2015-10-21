@@ -8,7 +8,7 @@ content:
         by: default
         dir: asc
         custom:
-            - _intro
+            - _about
             - _features
             - _services
             - _swag
