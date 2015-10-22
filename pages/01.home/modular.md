@@ -11,8 +11,8 @@ content:
             - _about
             - _resume
             - _portfolio
+            - _call
             - _services
-            - _swag
             - _portfolio
             - _ignite
             - _team
