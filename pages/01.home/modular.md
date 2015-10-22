@@ -10,6 +10,7 @@ content:
         custom:
             - _about
             - _resume
+            - _portfolio
             - _services
             - _swag
             - _portfolio
