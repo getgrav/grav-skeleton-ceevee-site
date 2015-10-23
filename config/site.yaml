@@ -23,11 +23,29 @@ header:
       icon: dribbble
     - url: "#"
       icon: skype
-
-
 footer:
   links:
     - text: Terms &amp; Conditions
       url: "#"
     - text: Legals
       url: "#"
+
+# HOW TO CREATE A VALID ID TO USE:
+# Go to www.twitter.com and sign in as normal, go to your settings page.
+# Go to "Widgets" on the left hand side.
+# Create a new widget for what you need eg "user time line" or "search" etc.
+# Feel free to check "exclude replies" if you don't want replies in results.
+# Now go back to settings page, and then go back to widgets page and
+# you should see the widget you just created. Click edit.
+# Look at the URL in your web browser, you will see a long number like this:
+# 657554810648948736
+# Use this as your ID below instead!
+
+twitter:
+  id: '657554810648948736' # Your widget ID
+  domId: 'tw-widget1' # HTML ID used in code
+  maxTweets: 3 # How many tweets to display
+  enableLinks: 'true' # Enable links
+  showInteraction: 'false' # Show interaction
+  showImages: 'false'  # Show images
+  showUser: 'false' # Show user name
