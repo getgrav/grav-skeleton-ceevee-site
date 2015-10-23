@@ -14,8 +14,4 @@ content:
             - _call
             - _testimonials
             - _contact
-            - _services
-            - _portfolio
-            - _ignite
-            - _team
 ---
