@@ -12,10 +12,10 @@ content:
             - _resume
             - _portfolio
             - _call
+            - _testimonials
+            - _contact
             - _services
             - _portfolio
             - _ignite
             - _team
-            - _subscribe
-            - _contact
 ---
