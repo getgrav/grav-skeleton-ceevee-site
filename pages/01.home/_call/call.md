@@ -1,5 +1,5 @@
 ---
-title: Get Hosting.
+hidemenu: true
 buttons:
 	- text: Sign Up Now
 	  url: http://www.dreamhost.com/r.cgi?287326|STYLESHOUT

@@ -8,27 +8,25 @@ metadata:
 header:
   title: I'm Jonathan Doe.
   description: I'm a Manila based <span>graphic designer</span>, <span>illustrator</span> and <span>webdesigner</span> creating awesome and effective visual identities for companies of all sizes around the globe. Let's <a class="smoothscroll" href="#about">start scrolling</a> and learn more <a class="smoothscroll" href="#about">about me</a>.
-  social:
-    - url: "#"
-      icon: facebook
-    - url: "#"
-      icon: twitter
-    - url: "#"
-      icon: google-plus
-    - url: "#"
-      icon: linkedin
-    - url: "#"
-      icon: instagram
-    - url: "#"
-      icon: dribbble
-    - url: "#"
-      icon: skype
-footer:
-  links:
-    - text: Terms &amp; Conditions
-      url: "#"
-    - text: Legals
-      url: "#"
+copyright:
+    - line: &copy; Copyright 2014 CeeVee
+    - line: Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a>
+social:
+- url: "#"
+  icon: facebook
+- url: "#"
+  icon: twitter
+- url: "#"
+  icon: google-plus
+- url: "#"
+  icon: linkedin
+- url: "#"
+  icon: instagram
+- url: "#"
+  icon: dribbble
+- url: "#"
+  icon: skype
+
 
 # HOW TO CREATE A VALID ID TO USE:
 # Go to www.twitter.com and sign in as normal, go to your settings page.
