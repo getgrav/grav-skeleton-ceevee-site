@@ -17,6 +17,7 @@ Ceevee is a clean, modern, fully responsive site template for your resume and po
 * Magnific popup lightbox
 * Smooth scrolling effect
 * Cross browser compatible
+* Twitter integration
 
 ## Basic Setup for a new Grav site
 

@@ -33,6 +33,7 @@ form:
     buttons:
         - type: submit
           value: Submit
+          class: submit
 
     process:
         - email:
