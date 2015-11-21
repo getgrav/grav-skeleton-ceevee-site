@@ -6,7 +6,8 @@ address:
     - line: 1600 Amphitheatre Parkway
     - line: Mountain View, CA 94043 US
     - line: (123)456-7890
-    - line: anyone@website.com
+email:
+    - address: anyone@website.com
 buttons:
     - url: "#"
       icon: download
