@@ -47,7 +47,6 @@ form:
             fileprefix: feedback-
             dateformat: Ymd-His-u
             extension: txt
-            body: "{% include 'forms/data.txt.twig' %}"
         - message: Thank you for your feedback!
         - display: thankyou
 
